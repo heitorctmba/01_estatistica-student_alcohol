@@ -1,4 +1,4 @@
-# Consumo de Álcool em Estudantes — Análise Estatística
+# Consumo de Álcool em Estudantes: Análise Estatística
 
 Projeto da disciplina de **Estatística Descritiva** do MBA em Ciência de Dados.
 
@@ -19,13 +19,29 @@ Fonte externa: [Kaggle — Student Alcohol Consumption](https://www.kaggle.com/d
 ## Estrutura do Notebook
 
 1. **Imports**
-2. **Preparação do Dataset** — carregamento do CSV, tradução de colunas e valores, visão geral
-3. **Análise Exploratória** *(em andamento)* — distribuição por endereço, consumo em dias úteis e cruzamento por endereço
-4. **Síntese e Conclusões** *(TODO)*
+2. **Preparação do Dataset:** carregamento do CSV, tradução de colunas e valores, visão geral
+3. **Análise Exploratória**
+   - 3.1 Distribuição por Endereço
+   - 3.2 Consumo de Álcool em Dias Úteis
+   - 3.3 Consumo por Endereço
+   - 3.4 Consumo por Status dos Pais
+   - 3.5 Nota Final × Tempo de Estudo por Nível de Álcool
+4. **Síntese e Conclusões**
+   - 4.1 Medidas Descritivas Gerais
+   - 4.2 Síntese: Consumo × Desempenho
+   - 4.3 Conclusões
 
 ## Principais Achados
 
-> A definir.
+**Perfil da amostra:** 395 estudantes, 77.7% urbanos. 88.9% consomem muito baixo ou baixo álcool em dias úteis.
+
+**Consumo e endereço:** estudantes rurais apresentam consumo médio mais alto (12.5%) que urbanos (4.9%), mas a desproporção da amostra (307 vs 88) limita comparações absolutas.
+
+**Consumo e estrutura familiar:** estudantes com pais separados têm maior proporção de consumo médio e alto (14.7% vs 8.2%), porém o grupo representa apenas 41 estudantes (10.4% da amostra).
+
+**Consumo e desempenho:** os dados não permitem afirmar uma associação clara entre consumo de álcool e reprovação. O grupo de muito baixo consumo tem nota média de 10.7 e aprovação de 69.9%, mas os grupos intermediários e altos possuem amostras pequenas, o que limita conclusões diretas.
+
+**Mecanismo observado:** o que os dados mostram com clareza é a associação entre consumo e tempo de estudo. Quem bebe mais durante os dias de semana estuda menos. A média de tempo de estudo no grupo de muito baixo consumo é 2.14, contra valores abaixo de 1.88 nos demais grupos.
 
 ## Requisitos
 
