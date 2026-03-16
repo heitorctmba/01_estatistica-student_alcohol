@@ -39,7 +39,7 @@ Fonte externa: [Kaggle — Student Alcohol Consumption](https://www.kaggle.com/d
 
 **Consumo e estrutura familiar:** estudantes com pais separados têm maior proporção de consumo médio e alto (14.7% vs 8.2%), porém o grupo representa apenas 41 estudantes (10.4% da amostra).
 
-**Consumo e desempenho:** os dados não permitem afirmar uma associação clara entre consumo de álcool e reprovação. O grupo de muito baixo consumo tem nota média de 10.7 e aprovação de 69.9%, mas os grupos intermediários e altos possuem amostras pequenas, o que limita conclusões diretas.
+**Consumo e desempenho:** os dados não mostram associação entre consumo de álcool e aprovação. O grupo de muito alto consumo tem 77.8% de aprovação, acima de baixo (58.7%) e medio (65.4%). Não há padrão linear. Os grupos de alto e muito alto somam apenas 18 estudantes, o que limita qualquer conclusão sobre esses níveis.
 
 **Mecanismo observado:** o que os dados mostram com clareza é a associação entre consumo e tempo de estudo. Quem bebe mais durante os dias de semana estuda menos. A média de tempo de estudo no grupo de muito baixo consumo é 2.14, contra valores abaixo de 1.88 nos demais grupos.
 
